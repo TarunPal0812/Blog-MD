@@ -21,7 +21,7 @@ A clean, modern, and user-friendly blog website designed to share articles, idea
 
 - **Backend**:
   - Node.js with Express.js (for RESTful API)
-  - Database: MongoDB 
+  - Database: MySQL 
   - Authentication: JWT (JSON Web Tokens) for user authentication
 
 - **Deployment**:
@@ -38,8 +38,3 @@ Before getting started, make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
 
-### Clone the Repository
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/blog-website.git
